@@ -949,7 +949,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/bg/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
